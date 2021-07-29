@@ -6,4 +6,5 @@ A Stock Market Price Predicion model using a Long Short-Term Memory with 4 hidde
 </br>
 ## Accuracy 
 Achieved an overall loss of around (~0.12%) which is 0.0012 validation loss over 120 days past data training running for 200 epochs, calculated as Root mean squared error calculation.
+
 ![Prediction Results](https://user-images.githubusercontent.com/88145926/127497204-ba0441bb-bfce-4492-8484-dc5213e9623e.png)
